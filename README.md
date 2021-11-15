@@ -16,7 +16,7 @@
    <a href="https://www.linkedin.com/in/malshi-kulasinghe-6744b21b5/"><img src="https://img.shields.io/badge/-Malshi%20Kulasinghe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malshi/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
    <a href="https://www.facebook.com/malshi.sathunika"><img src="https://img.shields.io/badge/-Malshi%20Kulasinghe-brightgreen?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/malshi" /></a>&nbsp;&nbsp;&nbsp;&nbsp
    
- ### 👨‍💻 Programming languages
+ ### 👩‍💻 Programming languages
 
 <p>    
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
