@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malshii"/>
+    <img src="https://streak-stats.demolab.com?user=Malshii"/>
   </a>
 </p>
 
