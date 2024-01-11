@@ -10,7 +10,7 @@
 <p align="center">
 👩‍💻Practice makes perfect. After a long time of practicing, our work will become natural, skillful, swift, and steady.
 <br><br>
-  · <a href="https://drive.google.com/file/d/1kktWv9U-6_tMq9pL21BFSNvhIF8K8Yik/view?usp=share_link">Resume</a>
+  · <a href="https://drive.google.com/file/d/1AfXa4TJxL5EOe7htLU8KgUKmzvmNSdF1/view?usp=drive_link">Resume</a>
  ·
 <br>
  <p align="center"> 
@@ -21,16 +21,18 @@
 
 <p>    
  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+ <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Python" src="https://img.shields.io/badge/Python-%23007396.svg?logo=java&logoColor=white"></a>
  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20language%20-%23F7DF1E.svg?logo=c&logoColor=black"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>               
 </p>
 
  ### 🖥 Frontend development
 
-<p>    
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
- <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-%23007396.svg?logo=CSS&logoColor=white"></a>
- <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Areact"><img alt="ReactJS" src="https://img.shields.io/badge/ReactJS%20%20-%23F7DF1E.svg?logo=react&logoColor=blue"></a>             
+<p>
+ <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Areact"><img alt="ReactJS" src="https://img.shields.io/badge/ReactJS%20%20-%23F7DF1E.svg?logo=react&logoColor=blue"></a>
+ <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Areact"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20%20-%23F7DF1E.svg?logo=flutter&logoColor=blue"></a>
+ <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+ <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-%23007396.svg?logo=CSS&logoColor=white"></a> 
 </p>
 
 ### 🗄️ Backend development
