@@ -12,6 +12,8 @@
 <br><br>
   · <a href="https://drive.google.com/file/d/1AfXa4TJxL5EOe7htLU8KgUKmzvmNSdF1/view?usp=drive_link">Resume</a>
  ·
+ <a href="https://malshi-kulasinghe.netlify.app/">Find me</a>
+ ·
 <br>
  <p align="center"> 
    <a href="https://www.linkedin.com/in/malshi-kulasinghe-6744b21b5/"><img src="https://img.shields.io/badge/-Malshi%20Kulasinghe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malshi/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
