@@ -10,7 +10,7 @@
 <p align="center">
 👩‍💻Practice makes perfect. After a long time of practicing, our work will become natural, skillful, swift, and steady.
 <br><br>
-  · <a href="https://drive.google.com/file/d/1AfXa4TJxL5EOe7htLU8KgUKmzvmNSdF1/view?usp=drive_link">Resume</a>
+  · <a href="https://drive.google.com/file/d/1yQNITII4wLZzGv5r1_WcKb0aMuY7W474/view?usp=sharing">Resume</a>
  ·
  <a href="https://malshi-kulasinghe.netlify.app/">Find me</a>
  ·
