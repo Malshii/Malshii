@@ -1,3 +1,6 @@
+<a href="#"><p align="center"><img 
+ src="https://github.com/Malshii/Malshii/blob/main/Cover.gif" width="100%"/></p></a>
+
 <h1 align="center" style="font-weight:bold;">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Malshi Kulasinghe   <img src="https://emojis.slackmojis.com/emojis/images/1542340460/4963/blush.gif?1542340460" width="28"/></h3>
 
 <h3 align="center">Software Engineer | IT Graduate</h3>
