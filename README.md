@@ -1,9 +1,6 @@
-<a href="#"><p align="center"><img 
- src="https://github.com/Malshii/Malshii/blob/main/Cover.gif" width="100%"/></p></a>
-
 <h1 align="center" style="font-weight:bold;">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Malshi Kulasinghe   <img src="https://emojis.slackmojis.com/emojis/images/1542340460/4963/blush.gif?1542340460" width="28"/></h3>
 
-<h3 align="center">IT Undergraduate </h3>
+<h3 align="center">Software Engineer | IT Graduate</h3>
 
 </p>
 </p>
@@ -32,6 +29,7 @@
 
 <p> 
  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Areact"><img alt="ReactJS" src="https://img.shields.io/badge/React%20-%23E34F26.svg?logo=react&logoColor=white"></a>
+ <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Areact"><img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%23E34F26.svg?logo=nextjs&logoColor=white"></a>
  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aflutter"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23E34F26.svg?logo=flutter&logoColor=white"></a>
  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%23E34F26.svg?logo=css&logoColor=white"></a>
