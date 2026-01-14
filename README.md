@@ -1,62 +1,84 @@
-<a href="#"><p align="center"><img 
- src="https://github.com/Malshii/Malshii/blob/main/Cover.gif" width="100%"/></p></a>
-
-<h1 align="center" style="font-weight:bold;">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Malshi Kulasinghe   <img src="https://emojis.slackmojis.com/emojis/images/1542340460/4963/blush.gif?1542340460" width="28"/></h3>
-
-<h3 align="center">Software Engineer | IT Graduate</h3>
-
-</p>
-</p>
 <p align="center">
-👩‍💻Practice makes perfect. After a long time of practicing, our work will become natural, skillful, swift, and steady.
-<br><br>
-  · <a href="https://drive.google.com/file/d/1yQNITII4wLZzGv5r1_WcKb0aMuY7W474/view?usp=sharing">Resume</a>
- ·
- <a href="https://malshi-kulasinghe.netlify.app/">Find me</a>
- ·
-<br>
- <p align="center"> 
-   <a href="https://www.linkedin.com/in/malshi-kulasinghe-6744b21b5/"><img src="https://img.shields.io/badge/-Malshi%20Kulasinghe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malshi/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
-   <a href="https://www.facebook.com/malshi.sathunika"><img src="https://img.shields.io/badge/-Malshi%20Kulasinghe-brightgreen?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/malshi" /></a>&nbsp;&nbsp;&nbsp;&nbsp
-   
- ### 👩‍💻 Programming languages
-
-<p>    
- <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?logo=java&logoColor=black"></a>
- <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?logo=python&logoColor=black"></a>
- <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20language%20-%23F7DF1E.svg?logo=c&logoColor=black"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>               
+  <img src="https://github.com/Malshii/Malshii/blob/main/Cover.gif" width="100%" />
 </p>
 
- ### 🖥 Frontend development
+<h1 align="center">
+  Hey there 👋, I'm Malshi Kulasinghe
+</h1>
 
-<p> 
- <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Areact"><img alt="ReactJS" src="https://img.shields.io/badge/React%20-%23E34F26.svg?logo=react&logoColor=white"></a>
- <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Areact"><img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%23E34F26.svg?logo=nextjs&logoColor=white"></a>
- <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aflutter"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23E34F26.svg?logo=flutter&logoColor=white"></a>
- <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
- <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%23E34F26.svg?logo=css&logoColor=white"></a>
- <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23E34F26.svg?logo=bootstrap&logoColor=white"></a>
- <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amaterialui"><img alt="MaterialUI" src="https://img.shields.io/badge/MaterialUI%20-%23E34F26.svg?logo=materialui&logoColor=white"></a>
+<h3 align="center">
+  Software Engineer | IT Graduate
+</h3>
+
+<p align="center">
+  🚀 Passionate about building scalable, user-focused web applications and exploring modern technologies.
 </p>
 
-### 🗄️ Backend development
-
-<p>    
- <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>   
- <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-%234ea94b.svg?logo=mysql&logoColor=white"></a>
- <a href="#"><img alt="Nodejs" src ="https://img.shields.io/badge/Nodejs-%234ea94b.svg?logo=nodejs&logoColor=white"></a>
- <a href="#"><img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-%234ea94b.svg?logo=springboot&logoColor=white"></a>
- <a href="#"><img alt="PHP" src ="https://img.shields.io/badge/PHP-%234ea94b.svg?logo=php&logoColor=white"></a>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Qw_gQJHVp-d_Tz76tJF757UCDOikDZIt/view">
+    Resume
+  </a>
+  ·
+  <a href="https://malshi-kulasinghe.netlify.app/">
+    Portfolio
+  </a>
+  ·
+  <a href="https://medium.com/@Malshii">
+    Medium
+  </a>
 </p>
 
-### 💻 Software and tools
-
-<p>    
- <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
- <a href="#"><img alt="Android studio" src="https://img.shields.io/badge/Android%20Studio-0078d7.svg?logo=android-studio&logoColor=white"></a>
- <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA%20-0078d7.svg?logo=Intellij&logoColor=white"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/malshi-kulasinghe-6744b21b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Malshi%20Kulasinghe-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Malshii">
+    <img src="https://img.shields.io/badge/GitHub-Malshii-black?logo=github&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 👩‍💻 About Me
+
+💼 Software Engineer at **GDC Consultants Ltd** (NZ collaboration)
+🎓 BSc (Hons) in IT & Management – **University of Moratuwa**
+🌱 Currently working with **React, Next.js, Supabase & modern UI systems**
+🧠 Interested in **AI, ML, and scalable web platforms**
+🤝 Open to collaboration and open-source contributions
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui)
+
+### 🧩 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase)
+
+### 🧰 Tools & Platforms
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira)
+
+---
 
 🔥 My contributions
 
@@ -67,7 +89,6 @@
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Malshii&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
